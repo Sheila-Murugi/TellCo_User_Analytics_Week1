@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Python package, `network_analysis`, is designed for conducting network analysis task. It provides tools and utilities to analyze network data, with a focus on handling Slack messages from a previous 10 Academy training program.
+This Python package, `User_Analysis`, is designed for conducting user  task. It provides tools and utilities to analyze telecommuniction data, with a focus on handling Slack messages from a previous 10 Academy training program.
 
 ## What to do
 
@@ -164,7 +164,7 @@ Contributions are welcome! Before contributing, please review our contribution g
 ##  License
 This project is licensed under the MIT License.
 
-## Network Analysis
+## Telecommunication User Data Analysis
 
 This is a starter python package to analze the slack data to learn about
 
